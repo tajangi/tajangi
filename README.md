@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**tajangi/tajangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<p align="center">
+  <img src="https://uploadkon.ir/uploads/0eb118_23carbon.png" border="0" alt="https://uploadkon.ir/uploads/0eb118_23carbon.png" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ```yaml
+const AboutMe = {
+    nickName: "Tajangi",
+    fullName: "Ali Derakhshan Nezhad",
+    located_In: "Iran",
+    current_Job: "Front End Developer",
+    Team: "IRG Team",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    education: ["Self-Taught Developer", "I am studying Computer Engineering"],
+
+    my_Interests: {
+      Work: ["Javascript", "ReactJs", "UI/UX", "Tailwindcss"],
+      Fun: ["Game", "Chaiii(Tea)", "Driving With Music", "hmm ..."],
+    },
+  }; -->
+```
+
+  
