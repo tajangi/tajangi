@@ -1,8 +1,7 @@
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<p align="center">
-  <img src="https://uploadkon.ir/uploads/0eb118_23carbon.png" border="0" alt="https://uploadkon.ir/uploads/0eb118_23carbon.png" />
-</p>
+
+![About Tajangi](https://github.com/tajangi/tajangi/assets/60777161/c1e0acb2-f5a7-4885-b6ce-75ab2c7185e9)
+
 
 <!-- ```yaml
 const AboutMe = {
